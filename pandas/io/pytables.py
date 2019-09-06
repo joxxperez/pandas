@@ -703,7 +703,7 @@ class HDFStore:
 
     def get(self, key):
         """
-        Retrieve pandas object stored in file
+        Retrieve pandas object stored in file.
 
         Parameters
         ----------
